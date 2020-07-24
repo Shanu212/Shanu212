@@ -1,4 +1,4 @@
-### Hi there 👋
+ <!-- ### Hi there 👋 -->
 
 <!--
 **Shanu212/Shanu212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Shanu Khandelwal
+
+### Who Am I?
+Hey there, I am an undergraduate student at Indian Institute of Technology Roorkee (Batch of '22) pursuing B.Tech in Mechanical Engineering. Mechanical? Yes! you heard it right. 
+
+### What Do I Do?
+I code and do software development.
