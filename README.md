@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Shanu Khandelwal
 
 ### Who Am I?
-Hey there, I am an undergraduate student at Indian Institute of Technology Roorkee (Batch of '22) pursuing B.Tech in Mechanical Engineering. Mechanical? Yes! you heard it right. 
+Hey there, I am an undergraduate student at <a href="https://www.iitr.ac.in/">Indian Institute of Technology Roorkee</a> (Batch of '22) pursuing B.Tech in Mechanical Engineering. Mechanical? Yes! you heard it right. 
 
 ### What Do I Do?
 I code and do software development.
